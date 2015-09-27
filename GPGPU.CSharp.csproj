@@ -70,6 +70,7 @@
   <ItemGroup>
     <Compile Include="Assets\BufferExample.cs" />
     <Compile Include="Assets\KernelExample.cs" />
+    <Compile Include="Assets\Pathfinding.cs" />
     <Compile Include="Assets\TextureExample.cs" />
   </ItemGroup>
   <ItemGroup>
